@@ -1,1 +1,1 @@
-# odin-recipes
+Hello. I am gunpychicken. The current project is "Recipes" from The Odin Project. It should demonstrate the HTML knowledge acquired up to this point.
